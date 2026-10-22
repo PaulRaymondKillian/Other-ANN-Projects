@@ -1,0 +1,28 @@
+### Data Set ###
+Dataset file location=C:\KIS\test3.DATA
+
+### Backprop Configuration ###
+Epochs Per Inteval=100
+Intervals=500
+
+### Network Topology ###
+Hidden Neurons=500
+Hidden Layers=1
+
+### Training Configuation ###
+Max weight value=0.00001
+Max bias value= 0.00001
+Initial rho value=0.0001
+Rho multiplier=0.99
+Dynamic rho interval=5
+Use Momentum=False
+Momentum Scaler=0.003
+Simulated annealing max percent(%)=1
+Simulated annealing interval=51
+
+### Save Data Settings ###
+Save Interval=1000
+File Title=Test2
+
+### Console Logging ###
+Console Logging Interval=10

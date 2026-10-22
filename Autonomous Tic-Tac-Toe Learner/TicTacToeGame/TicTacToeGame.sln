@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToeGame", "TicTacToeGame\TicTacToeGame.vcxproj", "{7C2DF9ED-7039-41CD-A8BE-64A797870EE9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToeGame_TestHarness", "TicTacToeGame_TestHarness\TicTacToeGame_TestHarness.vcxproj", "{519339C0-3888-455A-B032-7F9EDBF172AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C2DF9ED-7039-41CD-A8BE-64A797870EE9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7C2DF9ED-7039-41CD-A8BE-64A797870EE9}.Debug|Win32.Build.0 = Debug|Win32
+		{7C2DF9ED-7039-41CD-A8BE-64A797870EE9}.Release|Win32.ActiveCfg = Release|Win32
+		{7C2DF9ED-7039-41CD-A8BE-64A797870EE9}.Release|Win32.Build.0 = Release|Win32
+		{519339C0-3888-455A-B032-7F9EDBF172AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{519339C0-3888-455A-B032-7F9EDBF172AA}.Debug|Win32.Build.0 = Debug|Win32
+		{519339C0-3888-455A-B032-7F9EDBF172AA}.Release|Win32.ActiveCfg = Release|Win32
+		{519339C0-3888-455A-B032-7F9EDBF172AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

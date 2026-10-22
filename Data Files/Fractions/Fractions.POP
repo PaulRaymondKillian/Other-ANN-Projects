@@ -1,0 +1,42 @@
+### Data Set ###
+xDataset file location=D:\Data Files\Fractions\Fractions.txt
+
+### Population Configuration ###
+Population Size=101
+Generations=10
+Epochs Per Generation=100
+New Generation Method=7
+
+### Network Topology ###
+xHidden Neurons=10
+xHidden Layers=1
+
+### Training Configuation ###
+xMax weight value=1
+xMax bias value = 1
+xInitial rho value=0.6
+xRho multiplier=0.99999
+xDynamic rho interval=200
+xMomentum Scaler=0.3
+xSimulated annealing max percent(%)=1
+
+### Save Data Settings ###
+Save Directory=D:\Data Files\Fractions\New
+Generation Save Interval=1
+File Prefix=Fracts
+
+
+
+
+Epochs to Run=5000000
+Output data interval=10000
+Output delta data interval=1000000
+Initial rho value=0.6
+Rho multiplier=0.99999
+Dynamic rho interval=200
+Momentum Scaler=0.3
+Simulated annealing interval=1000000
+Simulated annealing max percent(%)=1
+SaveInterval=10000
+Save Directory=D:\Data Files\Fractions\
+Save Name Prefix=Fractions

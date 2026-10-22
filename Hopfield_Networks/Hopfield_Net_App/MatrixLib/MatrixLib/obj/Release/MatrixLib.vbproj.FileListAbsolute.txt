@@ -1,0 +1,9 @@
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\bin\Release\MatrixLib.dll
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\bin\Release\MatrixLib.pdb
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\bin\Release\MatrixLib.xml
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\obj\Release\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\obj\Release\MatrixLib.Resources.resources
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\obj\Release\MatrixLib.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\obj\Release\MatrixLib.dll
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\obj\Release\MatrixLib.xml
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\obj\Release\MatrixLib.pdb

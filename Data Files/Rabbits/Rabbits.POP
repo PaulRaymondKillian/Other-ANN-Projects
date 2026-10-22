@@ -1,0 +1,7 @@
+BRPOP File Locations=D:\Data Files\Rabbits\Rabbits.BPROP
+Population Size=100
+Generations=100
+Epochs Per Generation=10
+New Generation Method=1
+Save Directory=D:\Data Files\Rabbits
+File Prefix=Rabbits_1

@@ -1,0 +1,7 @@
+BRPOP File Locations=D:\Data Files\Addition2\Addition2.BPROP
+Population Size=100
+Generations=500
+Epochs Per Generation=5000
+New Generation Method=4
+Save Directory=D:\Data Files\Addition2
+File Prefix=Addition2_4

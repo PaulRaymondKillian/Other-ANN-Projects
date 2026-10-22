@@ -1,0 +1,17 @@
+Dataset file location=D:\Data Files\Fractions\Fractions.BPROP2
+Hidden Neurons=5
+Hidden Layers=3
+Max Weight Value=1
+Max Bias Value=1
+Epochs To Run=5000000
+Output Data Interval=10000
+Output Delta Data Interval=1000000
+Initial Rho Value=0.5
+Rho Multiplier=0.999
+Dynamic Rho Interval=200
+Momentum Scaler=0.3
+Simulated Annealing Interval=1000000
+Simulated Annleaing Max Percent=1
+Save Interval=10000
+Save Directory=D:\Data Files\Fractions
+Save File Prefix=Fractions

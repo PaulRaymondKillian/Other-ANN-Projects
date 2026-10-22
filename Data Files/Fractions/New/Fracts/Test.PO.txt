@@ -1,0 +1,26 @@
+### Data Set ###
+Dataset file location=D:\StockPicker\SP_InputScrubber\d10272008-10302009\d10272008-10302009_Bin10_Output\d10272008-10302009_Bin10_Output.txt
+
+### Population Configuration ###
+Population Size=101
+Generations=1
+Epochs Per Generation=1000
+New Generation Method=7
+
+### Network Topology ###
+Hidden Neurons=10
+Hidden Layers=1
+
+### Training Configuation ###
+Max weight value=1
+Max bias value = 1
+Initial rho value=0.6
+Rho multiplier=0.99999
+Dynamic rho interval=200
+Momentum Scaler=0.3
+Simulated annealing max percent(%)=1
+
+### Save Data Settings ###
+Save Directory=D:\StockPicker\SP_InputScrubber\d10272008-10302009\d10272008-10302009_Bin10_Output\New
+Generation Save Interval=1
+File Prefix=Test

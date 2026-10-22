@@ -1,0 +1,16 @@
+Dataset file location=D:\Data Files\Addition2\Addition2.data
+Hidden Neurons=10
+Max weight value=5
+Max bias value = 100
+-Epochs to Run=5000000
+-Output data interval=10000
+-Output delta data interval=1000000
+Initial rho value=0.01
+Rho multiplier=0.99
+Dynamic rho interval=150
+Momentum Scaler=0.3
+-Simulated annealing interval=1000000
+-Simulated annealing max percent(%)=1
+-SaveInterval=10000
+-Save Directory=D:\Data Files\Fractions
+-Save Name Prefix=Fractions

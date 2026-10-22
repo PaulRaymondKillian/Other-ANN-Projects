@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{79B54007-2F50-497B-96FD-AE445DC4A6CA}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <StartupObject>AutoTicTacToeLearner_Console.Module1</StartupObject>
+    <RootNamespace>AutoTicTacToeLearner_Console</RootNamespace>
+    <AssemblyName>AutoTicTacToeLearner_Console</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Console</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AutoTicTacToeLearner_Console.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AutoTicTacToeLearner_Console.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <RemoveIntegerChecks>true</RemoveIntegerChecks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ANN_Network, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ANNGeneticAlgFramework\References\ANN_Network.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LearnANNPopHebbian.vb" />
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="LearnANNGeneticAlg.vb" />
+    <Compile Include="LearnANNPopUnsupervisedTeacher.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\ANNGeneticAlgFramework\ANNGeneticAlgFramework\ANNGeneticAlgFramework.vbproj">
+      <Project>{354075E7-6415-48D4-B28D-F040B03C9B04}</Project>
+      <Name>ANNGeneticAlgFramework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ANNPopHebbian\ANNPopHebbian\ANNPopHebbian.vbproj">
+      <Project>{773E99CE-EEDB-403B-B896-EA2919746D31}</Project>
+      <Name>ANNPopHebbian</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ANNPopulationBaseClass\ANNPopulationBaseClass\ANNPopulationBaseClass.vbproj">
+      <Project>{43DE129C-0628-494F-9DAE-8A8263DE715F}</Project>
+      <Name>ANNPopulationBaseClass</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ANNPopUnsupervisedTeacher\ANNPopUnsupervisedTeacher\ANNPopUnsupervisedTeacher.vbproj">
+      <Project>{CC0030CA-CDAB-4F99-91E7-D00CFCB2458A}</Project>
+      <Name>ANNPopUnsupervisedTeacher</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ITicTacToeAI\ITicTacToeAI\ITicTacToeAI.vbproj">
+      <Project>{67A0FE14-11B8-44CE-AC23-9CEF0063441F}</Project>
+      <Name>ITicTacToeAI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TicTacToeAIANN\TicTacToeAIANN\TicTacToeAIANN.vbproj">
+      <Project>{9805FEF3-D0E9-4E3C-A372-1BC51304E7E9}</Project>
+      <Name>TicTacToeAIANN</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TicTacToeAIExpertSystem\TicTacToeAIExpertSystem\TicTacToeAIExpertSystem.vbproj">
+      <Project>{F9AC2CFB-33F4-4C36-B5C6-2B2BCF66F688}</Project>
+      <Name>TicTacToeAIExpertSystem</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TicTacToeGame\TicTacToeGame\TicTacToeGame.vbproj">
+      <Project>{B98A7EED-E861-4634-9C03-DC707A65523F}</Project>
+      <Name>TicTacToeGame</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

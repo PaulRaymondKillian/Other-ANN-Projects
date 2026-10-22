@@ -1,0 +1,16 @@
+Dataset file location=D:\Data Files\Multiplication\Multiplication.txt
+Hidden Neurons=10
+Max weight value=1
+Max bias value = 100
+xEpochs to Run=5000000
+xOutput data interval=10000
+xOutput delta data interval=1000000
+Initial rho value=0.8
+Rho multiplier=0.99
+Dynamic rho interval=150
+Momentum Scaler=0.3
+xSimulated annealing interval=1000000
+xSimulated annealing max percent(%)=1
+xSaveInterval=10000
+xSave Directory=D:\Data Files\Fractions
+xSave Name Prefix=Fractions

@@ -1,0 +1,29 @@
+### Data Set ###
+Dataset file location=C:\Killian Intelligence Systems\Data Files\_StockPicker\d10272008-10302009_Bin10\d10272008-10302009_Bin10.DATA
+
+### Population Configuration ###
+Population Size=10
+Generations=2
+Epochs Per Generation=20
+New Generation Method=1
+
+### Network Topology ###
+Hidden Neurons=10
+Hidden Layers=1
+
+### Training Configuation ###
+Max weight value=1
+Max bias value = 100
+Initial rho value=0.00000001
+Rho multiplier=0.99999
+Dynamic rho interval=200
+Momentum Scaler=0.3
+Simulated annealing max percent(%)=1
+
+### Save Data Settings ###
+Save Directory=C:\Killian Intelligence Systems\Data Files\_StockPicker\d10272008-10302009_Bin10
+Generation Save Interval=1
+File Prefix=Test
+
+### Console Logging ###
+Verbose Logging=True

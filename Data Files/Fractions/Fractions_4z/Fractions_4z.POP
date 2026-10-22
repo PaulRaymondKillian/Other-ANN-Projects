@@ -1,0 +1,7 @@
+BPROP File Location=D:\Data Files\Fractions\Fractions.BPROP2
+Population Size=20
+Generations=5
+Epochs Per Generations=100
+New Generation Method=6
+Save Directory=D:\Data Files\Fractions
+File Prefix=Fractions_4z

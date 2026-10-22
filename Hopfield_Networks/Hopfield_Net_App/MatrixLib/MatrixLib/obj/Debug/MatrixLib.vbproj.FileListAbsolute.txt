@@ -1,0 +1,27 @@
+D:\MatrixLib\MatrixLib\bin\Debug\MatrixLib.dll
+D:\MatrixLib\MatrixLib\bin\Debug\MatrixLib.pdb
+D:\MatrixLib\MatrixLib\bin\Debug\MatrixLib.xml
+D:\MatrixLib\MatrixLib\obj\Debug\ResolveAssemblyReference.cache
+D:\MatrixLib\MatrixLib\obj\Debug\MatrixLib.Resources.resources
+D:\MatrixLib\MatrixLib\obj\Debug\MatrixLib.vbproj.GenerateResource.Cache
+D:\MatrixLib\MatrixLib\obj\Debug\MatrixLib.dll
+D:\MatrixLib\MatrixLib\obj\Debug\MatrixLib.xml
+D:\MatrixLib\MatrixLib\obj\Debug\MatrixLib.pdb
+C:\Killian Intelligence Systems\MatrixLib\MatrixLib\bin\Debug\MatrixLib.dll
+C:\Killian Intelligence Systems\MatrixLib\MatrixLib\bin\Debug\MatrixLib.pdb
+C:\Killian Intelligence Systems\MatrixLib\MatrixLib\bin\Debug\MatrixLib.xml
+C:\Killian Intelligence Systems\MatrixLib\MatrixLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\MatrixLib\MatrixLib\obj\Debug\MatrixLib.Resources.resources
+C:\Killian Intelligence Systems\MatrixLib\MatrixLib\obj\Debug\MatrixLib.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\MatrixLib\MatrixLib\obj\Debug\MatrixLib.dll
+C:\Killian Intelligence Systems\MatrixLib\MatrixLib\obj\Debug\MatrixLib.xml
+C:\Killian Intelligence Systems\MatrixLib\MatrixLib\obj\Debug\MatrixLib.pdb
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\bin\Debug\MatrixLib.dll
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\bin\Debug\MatrixLib.pdb
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\bin\Debug\MatrixLib.xml
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\obj\Debug\MatrixLib.Resources.resources
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\obj\Debug\MatrixLib.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\obj\Debug\MatrixLib.dll
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\obj\Debug\MatrixLib.xml
+C:\Killian Intelligence Systems\MatrixLib_2\MatrixLib\obj\Debug\MatrixLib.pdb

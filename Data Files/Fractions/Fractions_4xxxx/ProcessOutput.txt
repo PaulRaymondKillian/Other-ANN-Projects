@@ -1,0 +1,10 @@
+ANN_Fast_Backprop_Dynamic_Population
+
+BestBackprop ID: 9-SA1-SA1-Best   BestBackprop Fitness:0.00868543721115021
+
+Initial Population Avg Fitness: 18.6201123740115
+Best Backprop Fitness Generation 0: 0.0227938117275419   AvgFitness: 6.71168471937684
+Best Backprop Fitness Generation 1: 0.0148239637393444   AvgFitness: 2.49863175594714
+Best Backprop Fitness Generation 2: 0.00868543721115021   AvgFitness: 0.280847211961634
+
+Processed In: 0 Hours, 0 Minutes, 25 Seconds.

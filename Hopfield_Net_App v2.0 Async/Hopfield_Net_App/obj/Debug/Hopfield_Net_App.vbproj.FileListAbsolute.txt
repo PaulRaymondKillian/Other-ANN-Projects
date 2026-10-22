@@ -1,0 +1,36 @@
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Hopfield_Net_App\bin\Debug\Hopfield_Net_App.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Hopfield_Net_App\bin\Debug\Hopfield_Net_App.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Hopfield_Net_App\bin\Debug\Hopfield_Net_App.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Hopfield_Net_App\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.Form1.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.Resources.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.pdb
+D:\Hopfield_Net_App\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.exe
+D:\Hopfield_Net_App\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.xml
+D:\Hopfield_Net_App\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.pdb
+D:\Hopfield_Net_App\Hopfield_Net_App\bin\Debug\Hopfield_Net_App.exe
+D:\Hopfield_Net_App\Hopfield_Net_App\bin\Debug\Hopfield_Net_App.pdb
+D:\Hopfield_Net_App\Hopfield_Net_App\bin\Debug\Hopfield_Net_App.xml
+D:\Hopfield_Net_App\Hopfield_Net_App\bin\Debug\MatrixLib.dll
+D:\Hopfield_Net_App\Hopfield_Net_App\bin\Debug\MatrixLib.pdb
+D:\Hopfield_Net_App\Hopfield_Net_App\bin\Debug\MatrixLib.xml
+D:\Hopfield_Net_App\Hopfield_Net_App\obj\Debug\ResolveAssemblyReference.cache
+D:\Hopfield_Net_App\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.Form1.resources
+D:\Hopfield_Net_App\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.Resources.resources
+D:\Hopfield_Net_App\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.vbproj.GenerateResource.Cache
+D:\Hopfield_Net_App v2.0 Async\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.exe
+D:\Hopfield_Net_App v2.0 Async\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.xml
+D:\Hopfield_Net_App v2.0 Async\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.pdb
+D:\Hopfield_Net_App v2.0 Async\Hopfield_Net_App\bin\Debug\Hopfield_Net_App.exe
+D:\Hopfield_Net_App v2.0 Async\Hopfield_Net_App\bin\Debug\Hopfield_Net_App.pdb
+D:\Hopfield_Net_App v2.0 Async\Hopfield_Net_App\bin\Debug\Hopfield_Net_App.xml
+D:\Hopfield_Net_App v2.0 Async\Hopfield_Net_App\bin\Debug\MatrixLib.dll
+D:\Hopfield_Net_App v2.0 Async\Hopfield_Net_App\bin\Debug\MatrixLib.pdb
+D:\Hopfield_Net_App v2.0 Async\Hopfield_Net_App\bin\Debug\MatrixLib.xml
+D:\Hopfield_Net_App v2.0 Async\Hopfield_Net_App\obj\Debug\ResolveAssemblyReference.cache
+D:\Hopfield_Net_App v2.0 Async\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.Form1.resources
+D:\Hopfield_Net_App v2.0 Async\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.Resources.resources
+D:\Hopfield_Net_App v2.0 Async\Hopfield_Net_App\obj\Debug\Hopfield_Net_App.vbproj.GenerateResource.Cache

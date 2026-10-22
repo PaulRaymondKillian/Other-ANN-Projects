@@ -1,0 +1,29 @@
+### Data Set ###
+Dataset file location=C:\Killian Intelligence Systems\Data Files\Fractions\Fractions.txt
+
+### Population Configuration ###
+Population Size=3
+Generations=3
+Epochs Per Generation=300
+New Generation Method=5
+
+### Network Topology ###
+Hidden Neurons=10
+Hidden Layers=1
+
+### Training Configuation ###
+Max weight value=1
+Max bias value = 1
+Initial rho value=0.01
+Rho multiplier=0.999
+Dynamic rho interval=200
+Use Momentum=False
+Momentum Scaler=0.3
+Simulated annealing max percent(%)=1
+
+### Save Data Settings ###
+Generation Save Interval=10
+File Prefix=Fracts
+
+### Console Logging ###
+Verbose Logging=True

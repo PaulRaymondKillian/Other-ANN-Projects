@@ -1,0 +1,16 @@
+Dataset file location=D:\Data Files\Sine_Small\Sine_Small.txt
+Hidden Neurons=10
+Max weight value=1
+Max bias value = 1
+Epochs to Run=5000000
+Output data interval=10000
+Output delta data interval=1000000
+Initial rho value=0.9
+Rho multiplier=0.9
+Dynamic rho interval=200
+Momentum Scaler=0.3
+Simulated annealing interval=1000000
+Simulated annealing max percent(%)=30
+SaveInterval=10000
+Save Directory=D:\Data Files\Sine_Small
+Save Name Prefix=Sine_Small

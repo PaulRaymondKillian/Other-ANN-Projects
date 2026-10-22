@@ -1,0 +1,28 @@
+### Data Set ###
+Dataset File Location=C:\KIS\Fractions.DATA
+
+### Backprop Configuration ###
+Epochs Per Interval=10
+Intervals=1000
+
+### Network Topology ###
+Hidden Neurons=10
+Hidden Layers=1
+
+### Training Configuration ###
+Max Weight Value=1.000000000000000
+Max Bias Value=1.000000000000000
+Initial rho value=0.600000000000000
+Rho multiplier=0.999990000000000
+Rho interval=200
+Use Momentum=0
+Momentum scaler=0.300000000000000
+Simulated annealing max percent(%)=1
+Simulated annealing interval=51
+
+### Save Data Settings ###
+Save Interval=1000
+File Title=UtilityIndustry_BPROP
+
+### Console Logging ###
+Console Logging Interval=1

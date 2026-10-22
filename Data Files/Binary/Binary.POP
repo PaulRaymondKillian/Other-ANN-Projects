@@ -1,0 +1,7 @@
+BRPOP File Locations=D:\Data Files\Binary\Binary.BPROP
+Population Size=100
+Generations=500
+Epochs Per Generation=200
+New Generation Method=4
+Save Directory=D:\Data Files\Binary
+File Prefix=Binary_4

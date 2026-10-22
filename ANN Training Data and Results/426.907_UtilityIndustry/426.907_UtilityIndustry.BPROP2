@@ -1,0 +1,28 @@
+### Data Set ###
+Dataset File Location=C:\KIS\UtilityIndustry_04-09-2020 816AM_Method5.DATA
+
+### Backprop Configuration ###
+Epochs Per Interval=100
+Intervals=100
+
+### Network Topology ###
+Hidden Neurons=1000
+Hidden Layers=1
+
+### Training Configuration ###
+Max Weight Value=0.0000100000
+Max Bias Value=0.0000100000
+Initial rho value=0.0000059205
+Rho multiplier=0.9500000000
+Rho interval=100
+Use Momentum=0
+Momentum scaler=0.3000000000
+Simulated annealing max percent(%)=5
+Simulated annealing interval=20
+
+### Save Data Settings ###
+Save Interval=100
+File Title=UtilityIndustry
+
+### Console Logging ###
+Console Logging Interval=10

@@ -1,0 +1,24 @@
+D:\MatrixLib\TestHarness\bin\Debug\TestHarness.exe
+D:\MatrixLib\TestHarness\bin\Debug\TestHarness.pdb
+D:\MatrixLib\TestHarness\bin\Debug\TestHarness.xml
+D:\MatrixLib\TestHarness\bin\Debug\MatrixLib.dll
+D:\MatrixLib\TestHarness\bin\Debug\MatrixLib.pdb
+D:\MatrixLib\TestHarness\bin\Debug\MatrixLib.xml
+D:\MatrixLib\TestHarness\obj\Debug\ResolveAssemblyReference.cache
+D:\MatrixLib\TestHarness\obj\Debug\TestHarness.Resources.resources
+D:\MatrixLib\TestHarness\obj\Debug\TestHarness.vbproj.GenerateResource.Cache
+D:\MatrixLib\TestHarness\obj\Debug\TestHarness.exe
+D:\MatrixLib\TestHarness\obj\Debug\TestHarness.xml
+D:\MatrixLib\TestHarness\obj\Debug\TestHarness.pdb
+C:\Killian Intelligence Systems\MatrixLib_2\TestHarness\obj\Debug\TestHarness.exe
+C:\Killian Intelligence Systems\MatrixLib_2\TestHarness\obj\Debug\TestHarness.xml
+C:\Killian Intelligence Systems\MatrixLib_2\TestHarness\obj\Debug\TestHarness.pdb
+C:\Killian Intelligence Systems\MatrixLib_2\TestHarness\bin\Debug\TestHarness.exe
+C:\Killian Intelligence Systems\MatrixLib_2\TestHarness\bin\Debug\TestHarness.pdb
+C:\Killian Intelligence Systems\MatrixLib_2\TestHarness\bin\Debug\TestHarness.xml
+C:\Killian Intelligence Systems\MatrixLib_2\TestHarness\bin\Debug\MatrixLib.dll
+C:\Killian Intelligence Systems\MatrixLib_2\TestHarness\bin\Debug\MatrixLib.pdb
+C:\Killian Intelligence Systems\MatrixLib_2\TestHarness\bin\Debug\MatrixLib.xml
+C:\Killian Intelligence Systems\MatrixLib_2\TestHarness\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\MatrixLib_2\TestHarness\obj\Debug\TestHarness.Resources.resources
+C:\Killian Intelligence Systems\MatrixLib_2\TestHarness\obj\Debug\TestHarness.vbproj.GenerateResource.Cache

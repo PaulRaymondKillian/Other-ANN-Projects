@@ -1,0 +1,16 @@
+### Backprop Identification ###
+ID=Fractions1_BPROP2
+File Title=Fractions1_BPROP2
+
+### Input Files - !!! NEVER MODIFY THIS PART !!! ###
+DO NOT MODIFY: Dataset file location=C:\KIS\Fractions.DATA
+DO NOT MODIFY: ANN file location=C:\KIS\0.000352766_Fractions1_BPROP2\0.000352766_Fractions1_BPROP2.ANN
+
+### Training Configuration ###
+Initial rho value=0.0000262958
+Rho multiplier=0.9000000000
+Rho interval=10000
+Use Momentum=0
+Momentum scaler=0.0030000000
+Simulated annealing max percent(%)=1
+Simulated annealing interval=200

@@ -1,0 +1,7 @@
+BRPOP File Locations=D:\Data Files\Sine_Small\Sine_Small.BPROP
+Population Size=100
+Generations=20
+Epochs Per Generation=500
+New Generation Method=1
+Save Directory=D:\Data Files\Sine_Small
+File Prefix=Sine_Small_2

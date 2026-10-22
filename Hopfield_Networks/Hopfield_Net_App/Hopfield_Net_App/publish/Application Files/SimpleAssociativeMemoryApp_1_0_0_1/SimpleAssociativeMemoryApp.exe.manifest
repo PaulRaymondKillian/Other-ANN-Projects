@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.1" name="SimpleAssociativeMemoryApp.exe" publicKeyToken="ec3204b6b186f8dc" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SimpleAssociativeMemoryApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SimpleAssociativeMemoryApp.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MatrixLib.dll" size="22016">
+      <assemblyIdentity name="MatrixLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>WA8tlo9hautIYXDYbWZEV/ZFcqA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SimpleAssociativeMemoryApp.exe" size="44032">
+      <assemblyIdentity name="SimpleAssociativeMemoryApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>xJAS7FBUx06BQeLuku+fVZ51SMQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Matrix1.txt" size="199">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DwPT0u1byyJktrn6ja+8od4lIro=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Matrix2.txt" size="976">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ogmO24LJFN2a60YKBcxFEpTimz4=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Killian-PC\Killian" issuerKeyHash="a700a74cef59f6d3f06bfc3aee2a8a860f3be1e8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>fR63YkAfZani5yDpVRSjINmNAS8=</DigestValue></Reference></SignedInfo><SignatureValue>Uc5DHUC71wiIlHS+OUixs95/OnXKg6uLFOVdIAgnue+eL5SzFyQn+6jhKbB0ZnSzU+khxRcqorshdU6TU0/LHToRkmAcOsflVFlWVCV5FhMv4XQuFpSYqPOQvAU+haHAKAUFW/1KStf6Tre6zFpc5STzCyQtB8oXh5eiF4lv6l8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qcboIQxo0UsIGgdSIn056fjxrULwi7xDT3PlKOydBVg9mGrwiLzRaPtbj9W/jbjEW2MsMVjDfO4X2MfQa6yJdOiHAVemMtKpsQlr6UachOcGEJxomwbDwkwqM30F5c3cLvu+kuQyphzbvysWWUeSL4UDFozvFfOG+AwldreuWsU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2f018dd920a31455e920e7e2a9651f4062b71e7d" Description="" Url=""><as:assemblyIdentity version="1.0.0.1" name="SimpleAssociativeMemoryApp.exe" publicKeyToken="ec3204b6b186f8dc" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Killian-PC\Killian</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>30N1uk34QAQFZJrPyp3JwTVaiWE=</DigestValue></Reference></SignedInfo><SignatureValue>eukGhYS4a5pbknyfc5ovmeV53yoogUcvqKxj5VScixGRspv8GX1sr0Me1CjhP8QJlLl7A8w/SEC1IQcTXZU9xdiLgo355tYG+R32ziNLZAfDlVtRIq/sKyra516xDo4V2AbdxQZOUPsS2zlpFosPElvsSx5Jm3Qa9hYvcQ5T05c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qcboIQxo0UsIGgdSIn056fjxrULwi7xDT3PlKOydBVg9mGrwiLzRaPtbj9W/jbjEW2MsMVjDfO4X2MfQa6yJdOiHAVemMtKpsQlr6UachOcGEJxomwbDwkwqM30F5c3cLvu+kuQyphzbvysWWUeSL4UDFozvFfOG+AwldreuWsU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQQxoMtdt1PLlBj4G3nfTtAzANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQASwBpAGwAbABpAGEAbgAtAFAAQwBcAEsAaQBsAGwAaQBhAG4wHhcNMTAwMzA0MTg0NTMyWhcNMTEwMzA1MDA0NTMyWjAvMS0wKwYDVQQDHiQASwBpAGwAbABpAGEAbgAtAFAAQwBcAEsAaQBsAGwAaQBhAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKnG6CEMaNFLCBoHUiJ9Oen48a1C8Iu8Q09z5SjsnQVYPZhq8Ii80Wj7W4/Vv424xFtjLDFYw3zuF9jH0GusiXTohwFXpjLSqbEJa+lGnITnBhCcaJsGw8JMKjN9BeXN3C77vpLkMqYc278rFllHki+FAxaM7xXzhvgMJXa3rlrFAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAbuMKCl6/WqQ7ZpYE6eq4Ar1tMvd3lhK+BcJJxuqCfHVn4y3WaRwFw0l2iYiPBaKU48ymwdA33lhIC01JmYvc5KRr6NRIcT3EfHo8gLF8wLH6CN72zCwAsEb6zdMYwbDYqP8TG3AbM0ijzw5+EkhhL84dimuSu71IH4qsMzhk0Gk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

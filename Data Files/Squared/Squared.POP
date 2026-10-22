@@ -1,0 +1,7 @@
+BRPOP File Locations=D:\Data Files\Squared\Squared.BPROP
+Population Size=100
+Generations=100
+Epochs Per Generation=1000
+New Generation Method=1
+Save Directory=D:\Data Files\Squared
+File Prefix=Squared_4

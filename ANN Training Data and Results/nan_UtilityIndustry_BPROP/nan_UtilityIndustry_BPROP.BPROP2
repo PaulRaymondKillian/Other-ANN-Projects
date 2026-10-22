@@ -1,0 +1,16 @@
+### Backprop Identification ###
+ID=UtilityIndustry_BPROP
+File Title=UtilityIndustry_BPROP
+
+### Input Files - !!! NEVER MODIFY THIS PART !!! ###
+DO NOT MODIFY: Dataset file location=C:\KIS\Fractions.DATA
+DO NOT MODIFY: ANN file location=c:\KIS\nan_UtilityIndustry_BPROP\nan_UtilityIndustry_BPROP.ANN
+
+### Training Configuration ###
+Initial rho value=0.600000000000000
+Rho multiplier=0.999990000000000
+Rho interval=200
+Use Momentum=0
+Momentum scaler=0.300000000000000
+Simulated annealing max percent(%)=1
+Simulated annealing interval=51

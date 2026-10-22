@@ -1,0 +1,15 @@
+### Backprop Identification ###
+ID=8-SA2-B
+File Title=xTestx
+
+### Input Files - !!! NEVER MODIFY THIS PART !!! ###
+DO NOT MODIFY: Dataset file location=C:\Killian Intelligence Systems\Data Files\Test\Test.DATA
+DO NOT MODIFY: ANN file location=C:\Killian Intelligence Systems\Data Files\Test\Test\198.182_xTestx_120609\xTestx\xTestx\xTestx.ANN
+
+### Training Configuration ###
+Initial rho value=0.00000001
+Rho multiplier=0.99999
+Rho interval=200
+Use Momentum=False
+Momentum scaler=0.3
+Simulated annealing max percent(%)=1

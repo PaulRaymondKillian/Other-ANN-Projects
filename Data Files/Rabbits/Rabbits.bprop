@@ -1,0 +1,16 @@
+Dataset file location=D:\Data Files\Rabbits\Rabbits.txt
+Hidden Neurons=50
+Max weight value=0.1
+Max bias value =5
+Epochs to Run=50000
+Output data interval=10000
+Output delta data interval=1000000
+Initial rho value=0.3
+Rho multiplier=0.99
+Dynamic rho interval=200
+Momentum Scaler=0.3
+Simulated annealing interval=1000000
+Simulated annealing max percent(%)=30
+SaveInterval=10000
+Save Directory=D:\Data Files\Rabbits
+Save Name Prefix=Rabbits
